@@ -1,0 +1,15 @@
+/Users/rabiazehraunal/Desktop/pratikler/phone-book/bin/Debug/net6.0/phone-book
+/Users/rabiazehraunal/Desktop/pratikler/phone-book/bin/Debug/net6.0/phone-book.deps.json
+/Users/rabiazehraunal/Desktop/pratikler/phone-book/bin/Debug/net6.0/phone-book.runtimeconfig.json
+/Users/rabiazehraunal/Desktop/pratikler/phone-book/bin/Debug/net6.0/phone-book.dll
+/Users/rabiazehraunal/Desktop/pratikler/phone-book/bin/Debug/net6.0/phone-book.pdb
+/Users/rabiazehraunal/Desktop/pratikler/phone-book/obj/Debug/net6.0/phone-book.csproj.AssemblyReference.cache
+/Users/rabiazehraunal/Desktop/pratikler/phone-book/obj/Debug/net6.0/phone-book.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rabiazehraunal/Desktop/pratikler/phone-book/obj/Debug/net6.0/phone-book.AssemblyInfoInputs.cache
+/Users/rabiazehraunal/Desktop/pratikler/phone-book/obj/Debug/net6.0/phone-book.AssemblyInfo.cs
+/Users/rabiazehraunal/Desktop/pratikler/phone-book/obj/Debug/net6.0/phone-book.csproj.CoreCompileInputs.cache
+/Users/rabiazehraunal/Desktop/pratikler/phone-book/obj/Debug/net6.0/phone-book.dll
+/Users/rabiazehraunal/Desktop/pratikler/phone-book/obj/Debug/net6.0/refint/phone-book.dll
+/Users/rabiazehraunal/Desktop/pratikler/phone-book/obj/Debug/net6.0/phone-book.pdb
+/Users/rabiazehraunal/Desktop/pratikler/phone-book/obj/Debug/net6.0/phone-book.genruntimeconfig.cache
+/Users/rabiazehraunal/Desktop/pratikler/phone-book/obj/Debug/net6.0/ref/phone-book.dll
